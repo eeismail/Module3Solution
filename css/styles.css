@@ -1,0 +1,33 @@
+#header-nav{
+	background: #356ED9;
+}
+#name {
+	color: #F2F3F4;
+	font-weight: bolder;
+}
+#nav-list {
+	margin-top: 0;
+	margin-bottom: 0;
+	background: #F7DC6F;
+	border-color: #356ED9;
+}
+#nav-list a {
+	text-align: center;
+}
+
+#nav-list a:hover {
+	background: #DAF7A6;
+}
+
+.line {
+	margin-top: 0;
+	margin-bottom: 0;
+	border-top-color: #356ED9;
+}
+
+.itemObject {
+	background: #F7DC6F;
+}
+h3 {
+	font-weight: bolder;
+}
